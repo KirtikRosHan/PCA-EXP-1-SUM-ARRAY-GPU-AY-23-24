@@ -2,7 +2,7 @@
 ### Name: G.R.KIRTIK ROSHAN
 ### Reg.No : 212221043002
 ### Exp.No : 01
-### Date: 
+### Date:14.02.2024
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
 i) Using the program sumArraysOnGPU-timer.cu, set the block.x = 1023. Recompile and run it. Compare the result with the execution configuration of block.x = 1024. Try to explain the difference and the reason.
